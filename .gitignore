@@ -1,0 +1,30 @@
+# Compiled Python files
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Local settings
+.env
+*.env
+
+reports
